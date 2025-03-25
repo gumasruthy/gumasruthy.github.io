@@ -21,7 +21,7 @@ const Home = () => {
             <h1>I'm <span className="highlight">Uma Sruthy Gajula</span></h1>
             <h2>Software Engineer in FinTech Services</h2>
             <p className="subtitle">
-              I'm a Master's student in Computer Science at Virginia Tech. I bring with me 3 years of experience at Oracle, where I designed banking screens for clients like HSBC, PNB, and K-Banks across Hong Kong, Singapore, Malaysia, and Luxembourg. I code in C++, Java and JavaScript, and I'm comfortable with Oracle Database and PL/SQL.
+              I'm a Master's student in Computer Science at Virginia Tech. I bring with me 3 years of experience at Oracle, optimizing algorithms, managing databases, and leading SDLC for global clients in various aspects.
             </p>
             <div className="cta-buttons">
               <button 
