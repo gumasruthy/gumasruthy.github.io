@@ -1,5 +1,5 @@
 // Home.jsx
-import frontPic from '../assets/frontPic.jpg';
+import frontPic from '/src/assets/frontPic.jpeg';
 import React from 'react';
 import './Home.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
