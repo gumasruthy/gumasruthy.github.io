@@ -8,7 +8,7 @@ import { faDownload } from "@fortawesome/free-solid-svg-icons";
 const Home = () => {
   const handleDownloadResume = () => {
     // Replace with your actual resume link
-    const resumeUrl = 'https://drive.google.com/file/d/1U9BU0myjW-GA_H2rh9WcWJxptwMVYAsE/view?usp=drive_link';
+    const resumeUrl = 'https://drive.google.com/file/d/1C1VNDmxhrwBBrbt5FgTwVlJbG8zfUPc6/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   };
 
@@ -21,7 +21,7 @@ const Home = () => {
             <h1>I'm <span className="highlight">Uma Sruthy Gajula</span></h1>
             <h2>Software Engineer in FinTech Services</h2>
             <p className="subtitle">
-              I'm a Master's student in Computer Science at Virginia Tech. I bring with me 3 years of experience at Oracle, where I designed banking screens for clients like HSBC, PNB, and K-Banks across Hong Kong, Singapore, Malaysia, and Luxembourg.
+              I'm a Master's student in Computer Science at Virginia Tech. I bring with me 3 years of experience at Oracle, where I designed banking screens for clients like HSBC, PNB, and K-Banks across Hong Kong, Singapore, Malaysia, and Luxembourg. I code in C++, Java and JavaScript, and I'm comfortable with Oracle Database and PL/SQL.
             </p>
             <div className="cta-buttons">
               <button 
